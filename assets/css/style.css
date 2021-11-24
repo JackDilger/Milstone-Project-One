@@ -29,6 +29,7 @@ header {
 .carousel-caption {
         background-color: #50616161;
         text-shadow: 1px 1px 10px #000;
+        color: #e1ad01;
      }
 
 
@@ -86,10 +87,17 @@ footer {
 
 #footer-icon i:hover {
     color: #e1ad01;
+    
 }
 
 #spotify-icon i:hover {
     color: #e1ad01;
+    
+}
+
+a:hover {
+    color: #e1ad01;
+    text-decoration: none;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
@@ -121,8 +129,6 @@ footer {
     #footer-icon i {
         padding-left: 20px;
     }
-
-
 }
 
         
