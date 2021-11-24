@@ -26,65 +26,17 @@ header {
 
 /*----------------------------------------------------carousel*/
 
-@media (min-width: 1200px) {
-    .carousel-caption {
-        position: absolute;
-        transform: translateY(-50%);
-        bottom: initial;
-        top: 50%;
-        background-color: #50616161;
-        text-shadow: 1px 1px 10px #000;
-     }
-    }
-    
-
-    .carousel-caption {
+.carousel-caption {
         background-color: #50616161;
         text-shadow: 1px 1px 10px #000;
      }
 
-
-
-@media (min-width: 992px) {
-.carousel-caption h1 {
-    font-size: 5em;
-    font-family: 'share tech', sans-serif;
-    text-transform: uppercase;
-    font-weight: 700;
-  }
-}
-
-@media (max-width: 992px) {
-    .carousel-caption h1 {
-        font-size: 4em;
-        font-family: 'share tech', sans-serif;
-        text-transform: uppercase;
-      }
-    }
-
-
-@media (min-width: 992px) {
-.carousel-caption h3 {
-    font-size: 3em;
-    font-family: 'share tech', sans-serif;
-    text-transform: uppercase;
-    font-weight: 700;
- }
-}
-
-@media (max-width: 992px) {
-    .carousel-caption h3 {
-        font-size: 2em;
-        font-family: 'share tech', sans-serif;
-        text-transform: uppercase;
-     }
-    }
 
 .carousel .carousel-item {
     height: 100vh;
   }
   
-  .carousel-item img {
+.carousel-item img {
       position: absolute;
       object-fit:cover;
       top: 0;
@@ -100,13 +52,8 @@ footer {
     padding: 20px;
 }
 
-.social-links li a i {
-    padding-left:90px;
-    padding-right: 10px;
-}
-
 #spotify-icon i {
-    display: inline-block;
+    display: inline;
     color:white;
     text-align: center;
     font-size: 40px;
@@ -114,21 +61,21 @@ footer {
 }
 
 #footer-icon i {
-    display: inline-block;
+    display: inline;
     color:white;
     text-align: center;
     font-size: 40px;
 }
 
 .copyright {
-    display: inline-block;
+    display: inline;
     color: white;
     text-align: center;
     font-family: 'Exo', sans-serif;
 }
 
 #playlist {
-    display: inline-block;
+    display: inline;
     color: white;
     text-align: center;
     font-family: 'Exo', sans-serif;
@@ -150,6 +97,95 @@ footer {
     text-decoration: underline;
 }
 
+/*----------------------------------------------------media queries*/
 
 
+@media (min-width: 1200px) {
+    .carousel-caption {
+        position: absolute;
+        transform: translateY(-50%);
+        bottom: initial;
+        top: 50%;
+        background-color: #50616161;
+        text-shadow: 1px 1px 10px #000;
+     }
 
+     .social-links li a i {
+        padding-left:90px;
+        padding-right: 10px;
+    }
+
+    }
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    #footer-icon i {
+        padding-left: 20px;
+    }
+
+
+}
+
+        
+@media (max-width: 992px) {
+            .carousel-caption h1 {
+                font-size: 4em;
+                font-family: 'share tech', sans-serif;
+                text-transform: uppercase;
+              }
+
+              .carousel-caption h3 {
+                font-size: 2em;
+                font-family: 'share tech', sans-serif;
+                text-transform: uppercase;
+             }
+
+
+            }
+        
+        
+@media (min-width: 992px) {
+        .carousel-caption h3 {
+            font-size: 3em;
+            font-family: 'share tech', sans-serif;
+            text-transform: uppercase;
+            font-weight: 700;
+         }
+
+         .carousel-caption h1 {
+            font-size: 5em;
+            font-family: 'share tech', sans-serif;
+            text-transform: uppercase;
+            font-weight: 700;
+          }
+
+        }
+
+@media (max-width: 767.98px) {
+    #footer-icon i {
+        padding-left: 50px;
+    }
+
+    #spotify-icon i {
+        padding-left: 50px;
+    }
+    
+    .copyright {
+        padding-top: 20px;
+    }
+}
+
+
+@media (max-width: 575.98px) {
+    
+    #footer-icon i {
+        padding-left: 50px;
+    }
+
+    #spotify-icon i {
+        padding-left: 40px;
+    }
+    
+    .copyright {
+        padding-top: 20px;
+    }
+}
