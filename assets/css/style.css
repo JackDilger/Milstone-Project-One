@@ -77,6 +77,14 @@ header {
     margin-bottom: 20px;
 }
 
+.location {
+    font-family: 'Exo', sans-serif;
+    color:#000;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 /*----------------------------------------------------footer*/
 
 footer {
