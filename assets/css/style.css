@@ -31,8 +31,6 @@ header {
         text-shadow: 1px 1px 10px #000;
         color: #e1ad01;
      }
-
-
 .carousel .carousel-item {
     height: 100vh;
   }
@@ -44,6 +42,32 @@ header {
       left: 0;
       min-height: 100vh;
   }
+
+/*----------------------------------------------------about section*/
+
+#chef-border {
+    height: 400px;
+    width: 400px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #e1ad01;
+    border-radius: 50%;
+}
+
+#chef-border img {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.chef-heading h3 {
+    font-family: 'Exo', sans-serif;
+    color:#000;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+   
+}
 
 /*----------------------------------------------------footer*/
 
