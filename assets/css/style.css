@@ -46,8 +46,8 @@ header {
 /*----------------------------------------------------about section*/
 
 #chef-border {
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     border-style: solid;
     border-width: 10px;
     border-color: #e1ad01;
@@ -60,12 +60,12 @@ header {
     border-radius: 50%;
 }
 
-.chef-heading h3 {
+.chef-heading {
     font-family: 'Exo', sans-serif;
     color:#000;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
    
 }
 
@@ -73,17 +73,45 @@ header {
     font-family: 'Exo', sans-serif;
     color:#000;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 100px;
+    margin-bottom: 40px;
 }
+
 
 .location {
     font-family: 'Exo', sans-serif;
     color:#000;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 100px;
+    margin-bottom: 40px;
 }
+
+.map-responsive{
+
+    overflow:hidden;
+
+    padding-bottom:56.25%;
+
+    position:relative;
+
+    height:0;
+
+}
+
+.map-responsive iframe{
+
+    left:0;
+
+    top:0;
+
+    height:100%;
+
+    width:100%;
+
+    position:absolute;
+
+}
+
 
 /*----------------------------------------------------footer*/
 
@@ -106,6 +134,7 @@ footer {
     color:white;
     text-align: center;
     font-size: 40px;
+    letter-spacing: 1rem;
 }
 
 .copyright {
@@ -157,21 +186,9 @@ a:hover {
         background-color: #50616161;
         text-shadow: 1px 1px 10px #000;
      }
-
-     .social-links li a i {
-        padding-left:90px;
-        padding-right: 10px;
     }
 
-    }
-
-@media (min-width: 768px) and (max-width: 1024px) {
-    #footer-icon i {
-        padding-left: 20px;
-    }
-}
-
-        
+      
 @media (max-width: 992px) {
             .carousel-caption h1 {
                 font-size: 4em;
@@ -184,8 +201,6 @@ a:hover {
                 font-family: 'share tech', sans-serif;
                 text-transform: uppercase;
              }
-
-
             }
         
         
@@ -203,35 +218,11 @@ a:hover {
             text-transform: uppercase;
             font-weight: 700;
           }
-
         }
 
 @media (max-width: 767.98px) {
-    #footer-icon i {
-        padding-left: 50px;
-    }
-
-    #spotify-icon i {
-        padding-left: 50px;
-    }
-    
     .copyright {
-        padding-top: 20px;
-    }
-}
-
-
-@media (max-width: 575.98px) {
-    
-    #footer-icon i {
-        padding-left: 50px;
-    }
-
-    #spotify-icon i {
-        padding-left: 40px;
-    }
-    
-    .copyright {
-        padding-top: 20px;
+        margin-bottom: 20px;
+        margin-top: 30px;
     }
 }
