@@ -121,6 +121,11 @@ header {
         margin-right: auto;
 }
 
+table {
+    font-size: 20px;
+    font-family: 'Exo', sans-serif;
+}
+
 /*----------------------------------------------------footer*/
 
 footer {
@@ -194,6 +199,14 @@ a:hover {
         background-color: #50616161;
         text-shadow: 1px 1px 10px #000;
      }
+     #chef-border {
+         margin-bottom: 100px;
+         margin-top: 20px;
+     }
+
+     .chef-heading {
+         margin-top: 60px;
+     }
     }
 
       
@@ -230,7 +243,7 @@ a:hover {
 
 @media (max-width: 767.98px) {
     .copyright {
-        margin-bottom: 20px;
-        margin-top: 30px;
+        margin-top: 50px;
+        margin-bottom: 40px;
     }
 }
