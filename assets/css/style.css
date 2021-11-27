@@ -45,6 +45,7 @@ header {
 
 /*----------------------------------------------------about section*/
 
+
 #chef-border {
     height: 300px;
     width: 300px;
@@ -204,8 +205,12 @@ a:hover {
          margin-top: 20px;
      }
 
-     .chef-heading {
-         margin-top: 60px;
+     .chef-heading, .opening-times, .location {
+         margin-top: 100px;
+     }
+
+     .map-responsive iframe {
+         padding-right: 60px;
      }
     }
 
