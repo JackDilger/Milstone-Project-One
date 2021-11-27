@@ -52,6 +52,8 @@ header {
     border-width: 10px;
     border-color: #e1ad01;
     border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #chef-border img {
@@ -73,7 +75,7 @@ header {
     font-family: 'Exo', sans-serif;
     color:#000;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 60px;
     margin-bottom: 40px;
 }
 
@@ -82,7 +84,7 @@ header {
     font-family: 'Exo', sans-serif;
     color:#000;
     text-align: center;
-    margin-top: 100px;
+    margin-top: 60px;
     margin-bottom: 40px;
 }
 
@@ -110,8 +112,14 @@ header {
 
     position:absolute;
 
+    padding-bottom: 30px;
+
 }
 
+.center {
+        margin-left: auto;
+        margin-right: auto;
+}
 
 /*----------------------------------------------------footer*/
 
