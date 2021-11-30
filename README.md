@@ -33,11 +33,15 @@
         4. As the company owner, I want to promote local music talent.
 
 
-## Features 
+## Design
 
 ***
 
-### Existing Features
+## Layout
+
+-Wireframes
+
+## Existing Features
 
 - __Navigation Bar__
 
