@@ -9,6 +9,8 @@
 
 ## User Experience (UX)
 
+***
+
 
 -   ### User stories
 
@@ -33,6 +35,8 @@
 
 ## Features 
 
+***
+
 ### Existing Features
 
 - __Navigation Bar__
@@ -40,7 +44,7 @@
   - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Menu and Contact page and is identical in each page to allow for easy navigation of the site.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-*** Display Nav Bar screeshot***
+***Display Nav Bar screeshot***
 
 - __Home page hero image__
 
@@ -86,6 +90,8 @@ Add a fourth page with up coming festivals and events where you can find the foo
 
 ## Testing 
 
+***
+
 ### Testing User Stories from User Experience (UX) Section
 
 - ### Site user goals
@@ -125,6 +131,8 @@ Add a fourth page with up coming festivals and events where you can find the foo
 
 ## Deployment
 
+***
+
 ### GitHub Pages
 
 The project was deployed to GitHub Pages using the following steps...
@@ -138,15 +146,74 @@ The project was deployed to GitHub Pages using the following steps...
 6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
 
 
-## Credits 
+## Acknowledgements 
 
--
+***
 
-### Content 
+### Credits 
 
--
+- Brian Macharia- My mentor from code institute who helped me with planning my project and offered guidance throughout.
+- South Devon slack group- Support and encouragement from fellow students on my course.
+- [Anna Greeves](https://ajgreaves.github.io/bootstrap-grid-demo/)- I used Annas essential guide to further my understanding of bootstrap grid so I could use this to make my
+site responsive
+- [Academind](https://www.youtube.com/watch?v=qmPmwdshCMw&list=LL&index=7)- I also referenced this video with help in understanding bootstrap grid.
+- [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)- I used Bootstrap for help in making my site responsive and also made use of some of their components which are credited below in the code section.
+- [W3schools](https://www.w3schools.com/)- I used their tutorials on HTML and CSS for further understanding and troubleshooting throughout my project.
+- [Stack Overflow](https://stackoverflow.com/)- I used Stack Overflow to get a more in depth understanding on HTML and CSS  throughout my project.
+- [Balsamiq](https://balsamiq.com/)- I used Balsamiq to build wireframes during planning proccess.
+- [Code Institute Example Sample README](https://github.com/Code-Institute-Solutions/SampleREADME) & [README Template](https://github.com/Code-Institute-Solutions/readme-template)- I used these as rough guides when planning and writting my README file.
 
-### Media
 
--
+### Code
+
+- I used Bootstraps [Carousel component](https://getbootstrap.com/docs/4.3/components/carousel/#with-indicators) and customised this meet my website requirements
+
+
+***
+
+
+- I used Bootsraps [Nav component](https://getbootstrap.com/docs/4.3/components/navbar/#nav) and customised this to meet my website requirements
+
+***
+
+
+- I used CSS in this blog post by [Duda](https://blog.duda.co/responsive-google-maps-for-your-website) to help make my google map iframe responsive
+
+***
+
+.map-responsive{
+
+    overflow:hidden;
+
+    padding-bottom:56.25%;
+
+    position:relative;
+
+    height:0;
+
+}
+
+.map-responsive iframe{
+
+    left:0;
+
+    top:0;
+
+    height:100%;
+
+    width:100%;
+
+    position:absolute;
+
+}
+
+
+### Images
+
+- [Carousel food truck image](https://www.istockphoto.com/photo/friends-eating-drinking-talking-socializing-outdoor-in-front-of-modifed-truck-for-gm1282828266-380442784)
+- [Carousel DJ image](https://www.pexels.com/photo/man-using-dj-controller-1649693/)
+- [About section chef image](https://unsplash.com/photos/FMh5o5m5N9E)
+- [Befunky](https://www.befunky.com/create/resize-image/)- Used to resize the images
+
+
 
