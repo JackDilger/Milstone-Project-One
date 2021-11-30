@@ -88,6 +88,24 @@
 
 Add a fourth page with up coming festivals and events where you can find the food truck this summer 2022
 
+## Technologies used
+
+***
+
+- HTML5- Markup language 
+- CSS3- Style sheet language
+- Gitpod- Integrated development environment (IDE)  Used to write all my code
+- Git- Used for version control
+- Github- Used to host my repository 
+
+### Design 
+
+- [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)- Used grid system and components
+- [Balsamiq](https://balsamiq.com/)- Used to build wireframes
+- [Fontawesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free)- Used to add icons
+- [Google Fonts](https://fonts.google.com/)- Sourced the website fonts
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)- Used to troubleshoot problems with code
+
 ## Testing 
 
 ***
@@ -160,7 +178,6 @@ site responsive
 - [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)- I used Bootstrap for help in making my site responsive and also made use of some of their components which are credited below in the code section.
 - [W3schools](https://www.w3schools.com/)- I used their tutorials on HTML and CSS for further understanding and troubleshooting throughout my project.
 - [Stack Overflow](https://stackoverflow.com/)- I used Stack Overflow to get a more in depth understanding on HTML and CSS  throughout my project.
-- [Balsamiq](https://balsamiq.com/)- I used Balsamiq to build wireframes during planning proccess.
 - [Code Institute Example Sample README](https://github.com/Code-Institute-Solutions/SampleREADME) & [README Template](https://github.com/Code-Institute-Solutions/readme-template)- I used these as rough guides when planning and writting my README file.
 
 
