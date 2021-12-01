@@ -1,10 +1,15 @@
 <h1 align="center">Techno Truck</h1>
 
+***I am responsive pics***
+**Site link**
+**Repo Link**
+
+## About
+
+***
 
 [Techno Truck](https://www.addtoevent.co.uk/listings/food-vans/greater-manchester) is a site that hopes to work as an advertisement tool for the company, whom of which offer high quality mobile cuisine accompanied by live music. The site aims to promote sales and will be useful for potential customers who need to know where to find us and offer some insight into what’s on offer at Techno Truck. The site will provide this information clearly to any first-time visitor, with an easy to navigate and fully responsive experience for all users. 
 
-
-***Display my finished website in responsive deisgn imgs***
 
 
 ## User Experience (UX)
@@ -29,17 +34,26 @@
 
         1. As the company owner, I want to gain new customers.
         2. As the company owner, I want to get booked for private hire events.
-        3. As the company owner, I want to increase our social media following.
-        4. As the company owner, I want to promote local music talent.
-
-
-## Design
+        3. As the company owner, I want to increase our b
 
 ***
 
 ## Layout
 
--Wireframes
+- I used Balsamiq to structure the layout of my website during the initial design phase.
+- I used Bootstraps grid system in conjuction with css media queries to make my site responsive across all devices
+
+### Home page  wireframe
+
+![Home](/readme-images/homepage.jpg)
+
+### Menu page  wireframe
+
+![Menu](/readme-images/menu.jpg)
+
+### Contact page  wireframe
+
+![Contact](/readme-images/contact.jpg)
 
 ## Existing Features
 
