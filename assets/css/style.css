@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Share+Tech:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
 
+
 /*----------------------------------------------------header*/
 header {
     margin:0
@@ -129,13 +130,16 @@ table {
 
 /*----------------------------------------------------contact form*/
 
-.contact-hero {
+.contact-hero img {
     width: 100%;
-    height: 100vh;
+    height: 50vh;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('../../assets/images/contact-header.jpg');
+    position: relative;
+    overflow: hidden;
+
 }
+
 
 /*----------------------------------------------------footer*/
 
@@ -222,6 +226,11 @@ a:hover {
      .map-responsive iframe {
          padding-right: 60px;
      }
+
+     .contact-hero img {
+        height: 100vh;
+    }
+
     }
 
       
