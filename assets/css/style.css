@@ -144,6 +144,11 @@ form {
     background-color: #50616161;
     text-shadow: 1px 1px 10px #000;
     font-family: 'Exo', sans-serif;
+    width: 60%;
+    height: min-content;
+    border-radius: 40px;
+    
+
 }
 
 
