@@ -151,6 +151,17 @@ form {
     margin-block: auto;
 }
 
+form h2 {
+    color: #e1ad01;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.btn {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
 
 /*----------------------------------------------------footer*/
 
@@ -211,6 +222,10 @@ a:hover {
 .navbar-dark .navbar-nav .nav-link:hover {
     color: #e1ad01;
     text-decoration: underline;
+}
+
+.btn:hover {
+    color: #e1ad01;
 }
 
 /*----------------------------------------------------media queries*/
