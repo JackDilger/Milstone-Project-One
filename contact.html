@@ -35,18 +35,47 @@
             </div>
           </nav>
     </header>
-
+    <!-- Hero image with contact us header-->
     <section>
       <div class="container-fluid p-0">
         <div class="row no-gutters">
           <div class="col-12">
-            <div class="contact-hero">
-              <h1>CONTACT NOW FOR PRIVATE BOOKINGS</h1>
-              <img src="/assets/images/contact-header.jpg" class="img-fluid" alt="close up picture of a burger">
-            </div>  
+              <img src="/assets/images/contact-hero.jpg" class="img-fluid contact-hero" alt="close up picture of a burger">
+
+              <form class="text-center justify-content-center">
+                <h2>CONTACT NOW FOR PRIVATE BOOKINGS</h2>
+                <div class="form-group">
+                  <label for="fname">Full Name</label>
+                  <input class="form-control" type="text" name="fullname" id="fname" required>
+                </div>
+
+                <div class="form-group">
+                  <label for="email">Email</label>
+                  <input class="form-control" type="email" name="email" id="email" required>
+                </div>
+
+                <div class="form-group">
+                  <label for="number">Number</label>
+                  <input class="form-control" type="number" name="number" id="number" required>
+                </div>
+                
+                <div class="form-group">
+                  <label for="description">Event Description</label>
+                  <textarea name="question" class="form-control"  id="description" required></textarea>
+                </div>
+
+                <div>
+                  <input class="btn btn-secondary btn-lg" type="submit" value="Book The Truck">
+                </div>
+
+              
+
+              </form>    
           </div>
         </div>
       </div>
+
+  
     </section>
 
    
