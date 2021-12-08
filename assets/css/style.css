@@ -129,7 +129,7 @@ table {
 }
 
 
-/*----------------------------------------------------contact form feedback*/
+/*----------------------------------------------------thankyou*/
 
 .thankyou {
     background-image: url("../images/contact-hero.jpg");
@@ -145,6 +145,13 @@ table {
     font-family: 'Share Tech', sans-serif;
     color: #e1ad01;
     text-align: center;
+    background-color: #50616161;
+    text-shadow: 1px 1px 10px #000;
+    width: 40%;
+    border-radius: 40px;
+    padding: 20px;
+    font-size: 4rem;
+    margin-left: 100px;
     
     
 }
