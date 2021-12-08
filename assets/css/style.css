@@ -137,10 +137,11 @@ table {
     position: relative;
     overflow: hidden;
     width: 100%;
-    height: min-content;
+    height: 120vh;
 }
 
 form {
+    position:absolute;
     color: white;
     background-color: #50616161;
     text-shadow: 1px 1px 10px #000;
@@ -148,15 +149,13 @@ form {
     width: 60%;
     height: min-content;
     border-radius: 40px;
-    margin-block: auto;
-    padding: 10%;
-    
+    padding: 20px;
 }
+
 
 form h2 {
     color: #e1ad01;
     margin-bottom: 30px;
-    margin-top: 30px;
 }
 
 .btn {
@@ -258,8 +257,6 @@ a:hover {
      .contact-hero img {
         height: 100vh;
     }
-
-   
 
     }
 
