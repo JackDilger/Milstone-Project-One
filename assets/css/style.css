@@ -294,7 +294,15 @@ a:hover {
 
 @media (max-width: 767.98px) {
     .copyright {
-        margin-top: 50px;
-        margin-bottom: 40px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    #spotify-icon i, #footer-icon i, #playlist {
+        font-size: 1.5rem;
+    }
+
+    .copyright {
+        font-size: 0.75rem;
     }
 }
