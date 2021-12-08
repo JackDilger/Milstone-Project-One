@@ -305,4 +305,16 @@ a:hover {
     .copyright {
         font-size: 0.75rem;
     }
+
+    form h2 {
+        font-size: 1.5rem;
+    }
+
+    form {
+        font-size: 0.75rem;
+    }
+
+    #contact-button {
+        font-size: 1rem;
+    }
 }
