@@ -212,6 +212,14 @@ form h2 {
     font-weight: 400;
 }
 
+.card-body {
+    box-shadow:1px 1px 10px #000;
+}
+
+.card-img-top {
+    box-shadow:1px 1px 10px #000;
+}
+
 .menu-spotify i {
     color: black;
     font-size: 2rem;
