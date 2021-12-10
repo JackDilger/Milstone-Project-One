@@ -212,9 +212,9 @@ form h2 {
     font-weight: 400;
 }
 
-.menu-spotify {
+.menu-spotify i {
     color: black;
-
+    font-size: 2rem;
 }
 /*----------------------------------------------------footer*/
 
@@ -278,6 +278,10 @@ a:hover {
 }
 
 .btn:hover {
+    color: #e1ad01;
+}
+
+.menu-spotify i:hover {
     color: #e1ad01;
 }
 
