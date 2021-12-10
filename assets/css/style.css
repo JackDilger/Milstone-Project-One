@@ -224,6 +224,22 @@ form h2 {
     color: black;
     font-size: 2rem;
 }
+
+.menu-header h1 {
+    font-family: 'Share Tech', sans-serif;
+    font-weight: bold;
+    font-size: 4rem;
+    padding-top: 20px;
+}
+
+.menu-header p {
+    font-family: 'Exo', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+
 /*----------------------------------------------------footer*/
 
 footer {
