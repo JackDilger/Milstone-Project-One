@@ -443,4 +443,8 @@ a:hover {
         width: 60%;
     }
 
+    .name {
+        font-size: 1rem;
+    }
+
 }
