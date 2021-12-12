@@ -60,15 +60,16 @@
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Menu and Contact page and is identical in each page to allow for easy navigation of the site.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured throughout each page on the site. Contains the company name in the top left, when clicked this takes the user back to the home page. 
+  - This is required on each page of the site to allow users to easily navigate the site. It is fully responsive and contains links to the home page, menu and contact page.  
 
-***Display Nav Bar screeshot***
+***Display Nav Bar screenshot***
 
-- __Home page hero image__
+- __Carousel hero images__
 
-  - The Home page includes a Hero image of the Techno Truck, with text overlay to allow which clearly and concisely tells the users what the company offers.
-
+  - The home page includes a carousel with 2 hero images which give the user immediate information about the site and what the company offers. 
+  - The first image is of the food truck and the second of a live DJ, this is accompanied by an overlayed header which clearly tells the user what the company offers.
+  
 ***Display main hero image of the food truck***
 
 - __Opening times and Location Section__
@@ -81,24 +82,26 @@
 
 - __The Footer__ 
 
-  - The footer section includes links to all of the Techno Trucks social media sites. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to company as it will promote social media growth and in-turn icrease sales.
+  - Featured throughout each page on the site. Includes social links, the links will open to a new tab to ensure they can navigate the site easily.
+  - The footer is valuable to company as it will promote social media growth and in-turn increase sales.
   - Promoting social media to our customers will allow them to better interact with us, so these links display on all site pages.
 
 ***Display screenshot of footer***
 
 - __Menu__
 
-  - The Menu will provide the user with supporting images so they can see what is available
-  - This page is a really important as it must make customers want to visit the Techno truck based of the food and music on offer
-  - The flip cards offer both a visual and textual information on the food being served.
-  - The DJ's photo card offers links to there social media to help promote them and keep in line with the company goals.
+  - Displays a card for each item available on the menu, includes both visual and textual information to the user
+  - This page is really important as it promotes the company’s main products, so it is important it is visually appealing to make site users want to visit the food truck.
+  - Each card has a Spotify link with a font awesome icon. The links again open in a new tab, and takes the user to the DJ's Spotify profile whom of which the menu item was inspired by.
 
 ***Display screenshot of the menu section***
 
 - __Contact__
 
-  - This page will allow users to conact the company for private bookings. The user will be asked to provide their name and email,as well as being given the option to provide further details about the booking request. 
+  - This page will allow users to contact the company for private bookings. The user will be asked to provide their name and email, number, as well as being given the option to provide further details about the booking request. 
+  - All inputs are required and the user will be prompted if they don’t fill out the required information before submitting the form.
+  - The user will be taken to a thank you page when they submit the form, clearly indicating their request was sent successfully.
+
 
 ***Display screenshot of the contact us form***
 
