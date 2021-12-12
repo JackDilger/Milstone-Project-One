@@ -28,6 +28,10 @@ header {
 /*----------------------------------------------------carousel*/
 
 .carousel-caption {
+        position: absolute;
+        transform: translateY(-50%);
+        bottom: initial;
+        top: 50%;
         background-color: #50616161;
         text-shadow: 1px 1px 10px #000;
         color: #e1ad01;
@@ -313,14 +317,7 @@ a:hover {
 
 
 @media (min-width: 1200px) {
-    .carousel-caption {
-        position: absolute;
-        transform: translateY(-50%);
-        bottom: initial;
-        top: 50%;
-        background-color: #50616161;
-        text-shadow: 1px 1px 10px #000;
-     }
+   
      #chef-border {
          margin-bottom: 100px;
          margin-top: 20px;
