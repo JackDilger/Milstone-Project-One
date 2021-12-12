@@ -37,9 +37,10 @@
         2. As the company owner, I want to get booked for private hire events.
         3. As the company owner, I want to increase our sales
 
-***
 
 ## Layout
+
+***
 
 - I used Balsamiq to structure the layout of my website during the initial design phase.
 - I used Bootstraps grid system in conjuction with css media queries to make my site responsive across all devices
@@ -48,29 +49,34 @@
 
 ![Home](/readme-images/homepage.jpg)
 
+
 ### Menu page  wireframe
 
 ![Menu](/readme-images/menu.jpg)
+
 
 ### Contact page  wireframe
 
 ![Contact](/readme-images/contact.jpg)
 
+
 ## Existing Features
+
+***
 
 - __Navigation Bar__
 
   - Featured throughout each page on the site. Contains the company name in the top left, when clicked this takes the user back to the home page. 
   - This is required on each page of the site to allow users to easily navigate the site. It is fully responsive and contains links to the home page, menu and contact page.  
 
-***Display Nav Bar screenshot***
+![Nav bar site image](/readme-images/nav-bar-readme.png)
 
 - __Carousel hero images__
 
   - The home page includes a carousel with 2 hero images which give the user immediate information about the site and what the company offers. 
   - The first image is of the food truck and the second of a live DJ, this is accompanied by an overlayed header which clearly tells the user what the company offers.
   
-***Display main hero image of the food truck***
+![Carousel site image](/readme-images/carousel-readme.png)
 
 - __Opening times and Location Section__
 
@@ -78,7 +84,7 @@
   - The map offers a direct link to google maps to make it even easier for users to find us.
   - This section must always be kept up to date if opening times and location are to change.
 
-***Display screenshot of opening times and location map***
+![Opening times and Location Section site image](/readme-images/about-readme.JPG)
 
 - __The Footer__ 
 
@@ -86,7 +92,7 @@
   - The footer is valuable to company as it will promote social media growth and in-turn increase sales.
   - Promoting social media to our customers will allow them to better interact with us, so these links display on all site pages.
 
-***Display screenshot of footer***
+![Footer site image](/readme-images/footer-readme.JPG)
 
 - __Menu__
 
@@ -94,7 +100,7 @@
   - This page is really important as it promotes the company’s main products, so it is important it is visually appealing to make site users want to visit the food truck.
   - Each card has a Spotify link with a font awesome icon. The links again open in a new tab, and takes the user to the DJ's Spotify profile whom of which the menu item was inspired by.
 
-***Display screenshot of the menu section***
+![Menu site image](/readme-images/menu-readme.JPG)
 
 - __Contact__
 
@@ -103,12 +109,14 @@
   - The user will be taken to a thank you page when they submit the form, clearly indicating their request was sent successfully.
 
 
-***Display screenshot of the contact us form***
+![Contact Form site image](/readme-images/form-readme.JPG)
 
 
 ### Features Left to Implement
 
-Add a fourth page with up coming festivals and events where you can find the food truck this summer 2022
+***
+
+- Add a fourth page with up coming festivals and events where you can find the food truck this summer 2022.
 
 ## Technologies used
 
@@ -121,6 +129,8 @@ Add a fourth page with up coming festivals and events where you can find the foo
 - Github- Used to host my repository 
 
 ### Design 
+
+***
 
 - [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)- Used grid system and components
 - [Balsamiq](https://balsamiq.com/)- Used to build wireframes
