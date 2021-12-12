@@ -1,6 +1,7 @@
 <h1 align="center">Techno Truck</h1>
 
-***I am responsive pics***
+![Responsive site images](/readme-images/am-i-responsive.jpg)
+
 **Site link**
 **Repo Link**
 
@@ -34,7 +35,7 @@
 
         1. As the company owner, I want to gain new customers.
         2. As the company owner, I want to get booked for private hire events.
-        3. As the company owner, I want to increase our b
+        3. As the company owner, I want to increase our sales
 
 ***
 

@@ -35,6 +35,9 @@ header {
         background-color: #50616161;
         text-shadow: 1px 1px 10px #000;
         color: #e1ad01;
+        font-weight: 700;
+        text-transform: uppercase;
+        font-family: 'share tech', sans-serif;
      }
 .carousel .carousel-item {
     height: 100vh;
@@ -317,6 +320,14 @@ a:hover {
 
 
 @media (min-width: 1200px) {
+
+    .carousel-caption h1 {
+        font-size: 7em;
+      }
+
+      .carousel-caption h3 {
+        font-size: 5rem;
+     }
    
      #chef-border {
          margin-bottom: 100px;
@@ -341,36 +352,25 @@ a:hover {
 
     }
 
+@media (max-width: 1024px) {
+        .carousel-caption h3 {
+            font-size: 4em;
+         }
 
-      
-@media (max-width: 992px) {
-            .carousel-caption h1 {
-                font-size: 4em;
-                font-family: 'share tech', sans-serif;
-                text-transform: uppercase;
-              }
+         .carousel-caption h1 {
+            font-size: 6em;
+          }
+        }
 
-              .carousel-caption h3 {
-                font-size: 2em;
-                font-family: 'share tech', sans-serif;
-                text-transform: uppercase;
-             }
-            }
         
         
-@media (min-width: 992px) {
+@media (max-width: 768px) {
         .carousel-caption h3 {
             font-size: 3em;
-            font-family: 'share tech', sans-serif;
-            text-transform: uppercase;
-            font-weight: 700;
          }
 
          .carousel-caption h1 {
             font-size: 5em;
-            font-family: 'share tech', sans-serif;
-            text-transform: uppercase;
-            font-weight: 700;
           }
         }
 
@@ -416,12 +416,29 @@ a:hover {
     .thankyou-text {
         font-size: 3rem;
         width: 60%;
-    }
-    
+    }    
 
 }
 
+@media (max-width: 576px) {
+    .carousel-caption h1 {
+        font-size: 4em;
+      }
+
+      .carousel-caption h3 {
+        font-size: 2rem;
+     }
+    }
+
 @media (max-width: 320px) {
+
+    .carousel-caption h1 {
+        font-size: 3.5em;
+      }
+
+      .carousel-caption h3 {
+        font-size: 1.5rem;
+     }
 
     form h2 {
         font-size: 1.25rem;
