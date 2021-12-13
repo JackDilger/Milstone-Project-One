@@ -215,47 +215,15 @@ site responsive
 
 ### Code
 
-- I used Bootstraps [Carousel component](https://getbootstrap.com/docs/4.3/components/carousel/#with-indicators) and customised this meet my website requirements
+- I used [Bootstraps](https://getbootstrap.com/docs/4.3/components/carousel/#with-indicators)
+ library throughout my website, mainly in making the site responsive using their grid system. Also using their components and built in CSS, customising this to meet my website requirements.
+
+- I used CSS in this blog post by [Duda](https://blog.duda.co/responsive-google-maps-for-your-website) to help make my google map iframe responsive.
+
+- I used CSS in this blog post by [Meeny](http://meeny.com/2020/06/26/bootstrap-carousel-caption-position-center/) to help center my carousel caption.
 
 
 ***
-
-
-- I used Bootsraps [Nav component](https://getbootstrap.com/docs/4.3/components/navbar/#nav) and customised this to meet my website requirements
-
-***
-
-
-- I used CSS in this blog post by [Duda](https://blog.duda.co/responsive-google-maps-for-your-website) to help make my google map iframe responsive
-
-***
-
-.map-responsive{
-
-    overflow:hidden;
-
-    padding-bottom:56.25%;
-
-    position:relative;
-
-    height:0;
-
-}
-
-.map-responsive iframe{
-
-    left:0;
-
-    top:0;
-
-    height:100%;
-
-    width:100%;
-
-    position:absolute;
-
-}
-
 
 ### Images
 
