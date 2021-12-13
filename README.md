@@ -43,7 +43,7 @@
 ***
 
 - I used Balsamiq to structure the layout of my website during the initial design phase.
-- I used Bootstraps grid system in conjuction with css media queries to make my site responsive across all devices
+- I used Bootstraps grid system in conjunction with CSS media queries to make my site responsive across all devices
 
 ### Home page  wireframe
 
@@ -122,21 +122,21 @@
 
 ***
 
-- HTML5- Markup language 
-- CSS3- Style sheet language
-- Gitpod- Integrated development environment (IDE)  Used to write all my code
-- Git- Used for version control
-- Github- Used to host my repository 
+- HTML5- Markup language.
+- CSS3- Style sheet language.
+- Gitpod- Integrated development environment (IDE)  Used to write all my code.
+- Git- Used for version control.
+- Github- Used to host my repository.
 
 ### Design 
 
 ***
 
-- [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)- Used grid system and components
-- [Balsamiq](https://balsamiq.com/)- Used to build wireframes
-- [Fontawesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free)- Used to add icons
-- [Google Fonts](https://fonts.google.com/)- Sourced the website fonts
-- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)- Used to troubleshoot problems with code
+- [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)- Used grid system and components.
+- [Balsamiq](https://balsamiq.com/)- Used to build wireframes.
+- [Fontawesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free)- Used to add icons.
+- [Google Fonts](https://fonts.google.com/)- Sourced the website fonts.
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)- Used to troubleshoot problems with code.
 
 ## Testing 
 
