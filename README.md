@@ -202,7 +202,7 @@ The project was deployed to GitHub Pages using the following steps...
 
 ### Credits 
 
-- Brian Macharia- My mentor from code institute who helped me with planning my project and offered guidance throughout.
+Brian Macharia- My mentor from code institute who helped me with planning my project and offered guidance throughout.
 - South Devon slack group- Support and encouragement from fellow students on my course.
 - [Anna Greeves](https://ajgreaves.github.io/bootstrap-grid-demo/)- I used Annas essential guide to further my understanding of bootstrap grid so I could use this to make my
 site responsive
@@ -210,7 +210,8 @@ site responsive
 - [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)- I used Bootstrap for help in making my site responsive and also made use of some of their components which are credited below in the code section.
 - [W3schools](https://www.w3schools.com/)- I used their tutorials on HTML and CSS for further understanding and troubleshooting throughout my project.
 - [Stack Overflow](https://stackoverflow.com/)- I used Stack Overflow to get a more in depth understanding on HTML and CSS  throughout my project.
-- [Code Institute Example Sample README](https://github.com/Code-Institute-Solutions/SampleREADME) & [README Template](https://github.com/Code-Institute-Solutions/readme-template)- I used these as rough guides when planning and writting my README file.
+- [Code Institute Example Sample README](https://github.com/Code-Institute-Solutions/SampleREADME) & [README Template](https://github.com/Code-Institute-Solutions/readme-template)- I used these as rough guides when planning and writing my README file.
+
 
 
 ### Code
