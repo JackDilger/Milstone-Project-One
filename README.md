@@ -35,7 +35,7 @@
 
         1. As the company owner, I want to gain new customers.
         2. As the company owner, I want to get booked for private hire events.
-        3. As the company owner, I want to increase our sales
+        3. As the company owner, I want to increase our sales.
 
 
 ## Layout
@@ -146,19 +146,39 @@
 
 - ### Site user goals
 
-   1. 
-   2. 
-   3. 
-   4. 
-   5. 
+ 1. As a user of the site, I want it to be immediately clear what the Techno Truck offers.
+    - As soon as you enter the site the home page displays a carousel including 2 images which showcase
+    images of the company’s main 2 selling points. 
+    - A heading overlays the first image to add some context to this and further indicate what they offer.
+  2. As a user of the site, I want to know where to find the Techno Truck.
+    - The home page about section contains an embedded google map giving exact location, the
+    map links directly to google maps site so customer can easily find the truck.
+  3. As a user of the site, I want to know what times the Techno Truck is open.
+    - The home page about section contains a table which clearly shows the user the opening times.
+  4. As a user of the site, I want to know what is served on the Menu.
+    - The navigation bar has a clear link to the menu page so customers can easily find it.
+    - The menu page includes images and text to showcase the trucks full menu. 
+  5. As a user of the site, I want to know what type of music is played.
+    - The Footer has a link to the companies own playlist found on Spotify, with text to prompt the user to listen to this. 
+    - The menu page offers links to some of the companies favourite DJ's who inspired the menu, again
+    there is text at the head of the page prompting the user to listen to the music.
+  6. As a user of the site, I want to know how to contact the company.
+    - The navigation bar has a clear link to the contact page so customers can easily find it.
+    - The contact form gives customers the option to contact the company about bookings.
+  7. As a user of the site, I want to be able to easily navigate through the site.
+    - The navigation bar is a constant throughout the site, so users can easily move from page to page depending on what information they are looking for by using the links provided.
+  
 
-- ### Company ownner goals
+- ### Company owner goals
 
-   1. 
-   2. 
-   3. 
-   4. 
-   5. 
+ 1. As the company owner, I want to gain new customers.
+   - The website showcases both the menu and the music, both of the company’s unique selling
+   points. Customers know what to expect, so the site works as a great advertisement tool for potential new customers.
+ 2. As the company owner, I want to get booked for private hire events.
+   - The contact page allows site users to get in touch with the company easily about potential bookings.
+   - The form is clear about what information it needs and prompts the user about any missed required fields. It gives immediate feedback to the user that the company has received their booking once
+   they submit the contact form.
+
 
 
 
