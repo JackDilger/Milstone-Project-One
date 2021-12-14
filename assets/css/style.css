@@ -378,6 +378,17 @@ a:hover {
           }
         }
 
+@media (min-width: 994px) and (max-width: 1209px) {
+    .opening-times, .location {
+        margin-top: 40px;
+    }
+
+    #chef-border {
+    margin-bottom: 50px;
+}
+
+}
+
 @media (min-width:767px) and (max-width:1025px) {
     .contact-hero {
         height: 80vh;
