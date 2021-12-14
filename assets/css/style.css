@@ -323,10 +323,12 @@ a:hover {
 
     .carousel-caption h1 {
         font-size: 7em;
+        font-weight: 800;
       }
 
       .carousel-caption h3 {
         font-size: 5rem;
+        font-weight: 800;
      }
    
      #chef-border {
