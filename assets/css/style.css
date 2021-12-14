@@ -356,11 +356,13 @@ a:hover {
 
 @media (max-width: 1024px) {
         .carousel-caption h3 {
-            font-size: 4em;
+            font-size: 4.5em;
+            font-weight: 700;
          }
 
          .carousel-caption h1 {
-            font-size: 6em;
+            font-size: 6.5em;
+            font-weight: 700;
           }
         }
 
