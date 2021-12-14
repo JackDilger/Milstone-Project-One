@@ -91,6 +91,8 @@
   - Featured throughout each page on the site. Includes social links, the links will open to a new tab to ensure they can navigate the site easily.
   - The footer is valuable to company as it will promote social media growth and in-turn increase sales.
   - Promoting social media to our customers will allow them to better interact with us, so these links display on all site pages.
+  - Links to Facebook, Twitter and Instagram default to the sites home pages as the company doesnt have
+  social media pages yet.
 
 ![Footer site image](/readme-images/footer-readme.JPG)
 
