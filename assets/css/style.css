@@ -263,7 +263,7 @@ footer {
     padding-left: 30px;
 }
 
-#footer-icon i {
+#facebook-icon i, #twitter-icon i, #instagram-icon i {
     display: inline;
     color:white;
     text-align: center;
@@ -288,7 +288,7 @@ footer {
 
 /*----------------------------------------------------hover*/
 
-#footer-icon i:hover {
+.footer-icon i:hover {
     color: #e1ad01;
     
 }
@@ -408,9 +408,10 @@ a:hover {
         margin-bottom: 10px;
     }
 
-    #spotify-icon i, #footer-icon i, #playlist {
+    #spotify-icon i, #facebook-icon i, #instagram-icon i, #twitter-icon i, #playlist {
         font-size: 1.5rem;
     }
+
 
     .copyright {
         font-size: 0.75rem;
