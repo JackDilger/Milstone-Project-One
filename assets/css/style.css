@@ -22,7 +22,6 @@ header {
 .nav-link {
     font-family: 'Exo', sans-serif;
     letter-spacing: 1px;
-    font-weight: 200px;
 } 
 
 /*----------------------------------------------------carousel*/
@@ -354,6 +353,12 @@ a:hover {
 
     }
 
+@media (min-width: 1024px) and (max-width: 1200px) {
+    .nav-link {
+        font-size: 1.5rem;
+    }
+}
+
 @media (max-width: 1024px) {
         .carousel-caption h3 {
             font-size: 4.5em;
@@ -364,6 +369,7 @@ a:hover {
             font-size: 6.5em;
             font-weight: 700;
           }
+
         }
 
         
@@ -385,6 +391,7 @@ a:hover {
 
     #chef-border {
     margin-bottom: 50px;
+
 }
 
 }
@@ -398,6 +405,7 @@ a:hover {
         font-size: 5rem;
         width: 60%;
     }
+
 }
         
 
