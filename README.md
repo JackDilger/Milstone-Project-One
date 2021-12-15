@@ -203,7 +203,7 @@
 
 ### Usability Testing
 
-- I used chrome dev tools to make sure my site was fully responisve across different screen sizes.
+- I used chrome dev tools to make sure my site was fully responsive across different screen sizes.
 - I used a chrome dev tools plug in called [lighthouse](https://developers.google.com/web/tools/lighthouse) to check my sites accessibility and it came back
 with no errors across all pages.
 
