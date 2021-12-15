@@ -93,7 +93,7 @@
   - Featured throughout each page on the site. Includes social links, the links will open to a new tab to ensure they can navigate the site easily.
   - The footer is valuable to the company as it will promote social media growth and in-turn increase sales.
   - Promoting social media to our customers will allow them to better interact with us, so these links display on all site pages.
-  - Links to Facebook, Twitter and Instagram default to the sites home pages as the company doesnt have
+  - Links to Facebook, Twitter and Instagram default to the sites home pages as the company doesn't have
   social media pages yet.
 
 ![Footer site image](/readme-images/footer-readme.JPG)
@@ -199,7 +199,7 @@
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html#textarea)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
 
 ### Usability Testing
 
