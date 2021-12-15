@@ -206,23 +206,19 @@
 - I used chrome dev tools to make sure my site was fully responsive across different screen sizes.
 - I used a chrome dev tools plug in called [lighthouse](https://developers.google.com/web/tools/lighthouse) to check my sites accessibility and it came back
 with no errors across all pages.
+- I checked myself all images had supporting alt tags.
 
 ![Lighthouse accessibility](/readme-images/lighthouse-readme.JPG)
 
 ### Browser Testing
 
-- 
+- I tested the site across multiple browsers which all worked.
+  - Chrome
+  - Safari
+  - Edge
+  - Firefox
+  - Opera
 
-
-
-## Bug Fixes 
-
--
-
-
-### Unfixed Bugs
-
--
 
 ## Deployment
 
