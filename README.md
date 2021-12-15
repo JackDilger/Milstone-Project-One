@@ -201,6 +201,19 @@
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator)
 
+### Usability Testing
+
+- I used chrome dev tools to make sure my site was fully responisve across different screen sizes.
+- I used a chrome dev tools plug in called [lighthouse](https://developers.google.com/web/tools/lighthouse) to check my sites accessibility and it came back
+with no errors across all pages.
+
+![Lighthouse accessibility](/readme-images/lighthouse-readme.JPG)
+
+### Browser Testing
+
+- 
+
+
 
 ## Bug Fixes 
 
