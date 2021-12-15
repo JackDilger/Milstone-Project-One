@@ -82,6 +82,8 @@
 
   - This section will allow the user to see exactly where Techno Truck is located, and when they are open.
   - The map offers a direct link to google maps to make it even easier for users to find us.
+  - The table containing our opening times offers clear information to the user as to when they can visit the truck.
+  - The section contacts an image of the chef to make it more personable.
   - This section must always be kept up to date if opening times and location are to change.
 
 ![Opening times and Location Section site image](/readme-images/about-readme.JPG)
@@ -89,7 +91,7 @@
 - __The Footer__ 
 
   - Featured throughout each page on the site. Includes social links, the links will open to a new tab to ensure they can navigate the site easily.
-  - The footer is valuable to company as it will promote social media growth and in-turn increase sales.
+  - The footer is valuable to the company as it will promote social media growth and in-turn increase sales.
   - Promoting social media to our customers will allow them to better interact with us, so these links display on all site pages.
   - Links to Facebook, Twitter and Instagram default to the sites home pages as the company doesnt have
   social media pages yet.
@@ -143,6 +145,14 @@
 ## Testing 
 
 ***
+
+- Nav bar brand logo takes the user back to the home page. 
+- Nav bar menu links direct the user to the correct pages.
+- Contact us form takes the user to the thankyou page once submitted.
+- Social media links work and open in new tabs when clicked. 
+- Hovering over the links indicates to the user clearly to click and links are not default blue.
+- Carousel slider indicators work to change images. 
+- Clicking 'View larger map' on the google map takes the user to the location in a new tab.
 
 ### Testing User Stories from User Experience (UX) Section
 
