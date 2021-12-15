@@ -228,13 +228,12 @@ with no errors across all pages.
 
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
-3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
-5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/JackDilger/Milstone-Project-One)
+2. At the top of the Repositor, locate the "Settings" Button on the menu.
+3. Select 'Pages' from the menu on the left hand side.
+4. In the pages section under 'Source', click 'Branch' and select 'Main'.
+5. Click 'Save'.
+6. A URL displays advising that you site has been published.
 
 
 ## Acknowledgements 
