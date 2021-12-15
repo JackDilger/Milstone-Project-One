@@ -2,14 +2,12 @@
 
 ![Responsive site images](/readme-images/am-i-responsive.jpg)
 
-**Site link**
-**Repo Link**
 
 ## About
 
 ***
 
-[Techno Truck](https://www.addtoevent.co.uk/listings/food-vans/greater-manchester) is a site that hopes to work as an advertisement tool for the company, whom of which offer high quality mobile cuisine accompanied by live music. The site aims to promote sales and will be useful for potential customers who need to know where to find us and offer some insight into what’s on offer at Techno Truck. The site will provide this information clearly to any first-time visitor, with an easy to navigate and fully responsive experience for all users. 
+[Techno Truck](https://jackdilger.github.io/Milstone-Project-One/) is a site that hopes to work as an advertisement tool for the company, whom of which offer high quality mobile cuisine accompanied by live music. The site aims to promote sales and will be useful for potential customers who need to know where to find us and offer some insight into what’s on offer at Techno Truck. The site will provide this information clearly to any first-time visitor, with an easy to navigate and fully responsive experience for all users. 
 
 
 
