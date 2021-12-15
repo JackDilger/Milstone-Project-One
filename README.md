@@ -273,6 +273,7 @@ site responsive
 - [Carousel DJ image](https://www.pexels.com/photo/man-using-dj-controller-1649693/)
 - [About section chef image](https://unsplash.com/photos/FMh5o5m5N9E)
 - [Contact form- Background](https://www.pexels.com/photo/close-up-photo-of-burger-1639562/)
+- [Thank you- Background](https://www.pexels.com/photo/delighted-multiethnic-couple-with-drinks-and-food-on-street-5920665/)
 - [Menu item-Burger](https://www.pexels.com/photo/close-up-photo-of-burger-3915906/)
 - [Menu item-Pitta](https://unsplash.com/photos/WDIiSe5GVAg)
 - [Menu item-Pho](https://unsplash.com/photos/NFQi_2HUNRI)
