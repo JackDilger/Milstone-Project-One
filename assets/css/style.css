@@ -282,6 +282,7 @@ footer {
     color: white;
     text-align: center;
     font-family: 'Exo', sans-serif;
+    font-size: 1.5rem;
 }
 
 
@@ -416,7 +417,7 @@ a:hover {
         margin-bottom: 10px;
     }
 
-    #spotify-icon i, #facebook-icon i, #instagram-icon i, #twitter-icon i, #playlist {
+    #spotify-icon i, #facebook-icon i, #instagram-icon i, #twitter-icon i {
         font-size: 1.5rem;
     }
 
