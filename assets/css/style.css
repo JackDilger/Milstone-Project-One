@@ -288,14 +288,8 @@ footer {
 
 /*----------------------------------------------------hover*/
 
-.footer-icon i:hover {
+#spotify-icon i:hover, #facebook-icon i:hover, #twitter-icon i:hover, #instagram-icon i:hover {
     color: #e1ad01;
-    
-}
-
-#spotify-icon i:hover {
-    color: #e1ad01;
-    
 }
 
 a:hover {
