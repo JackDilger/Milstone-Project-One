@@ -1,59 +1,56 @@
 
 @import url('https://fonts.googleapis.com/css?family=Share+Tech:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
-
-
 /*----------------------------------------------------header*/
 header {
-    margin:0
-}
-
-.navbar {
+    margin: 0;
+  }
+  
+  .navbar {
     min-height: 100px;
-}
-
-.name {
-    font-family: 'Share Tech', sans-serif;
+  }
+  
+  .name {
+    font-family: "Share Tech", sans-serif;
     text-transform: uppercase;
     font-weight: 700;
     letter-spacing: 5px;
-}
-
-.nav-link {
-    font-family: 'Exo', sans-serif;
+  }
+  
+  .nav-link {
+    font-family: "Exo", sans-serif;
     letter-spacing: 1px;
-} 
-
-/*----------------------------------------------------carousel*/
-
-.carousel-caption {
-        position: absolute;
-        transform: translateY(-50%);
-        bottom: initial;
-        top: 50%;
-        background-color: #50616161;
-        text-shadow: 1px 1px 10px #000;
-        color: #e1ad01;
-        font-weight: 700;
-        text-transform: uppercase;
-        font-family: 'share tech', sans-serif;
-     }
-.carousel .carousel-item {
+  }
+  
+  /*----------------------------------------------------carousel*/
+  
+  .carousel-caption {
+    position: absolute;
+    transform: translateY(-50%);
+    bottom: initial;
+    top: 50%;
+    background-color: #50616161;
+    text-shadow: 1px 1px 10px #000;
+    color: #e1ad01;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: "share tech", sans-serif;
+  }
+  .carousel .carousel-item {
     height: 100vh;
   }
   
-.carousel-item img {
-      position: absolute;
-      object-fit:cover;
-      top: 0;
-      left: 0;
-      min-height: 100vh;
+  .carousel-item img {
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    min-height: 100vh;
   }
-
-/*----------------------------------------------------about section*/
-
-
-#chef-border {
+  
+  /*----------------------------------------------------about section*/
+  
+  #chef-border {
     height: 300px;
     width: 300px;
     border-style: solid;
@@ -62,82 +59,75 @@ header {
     border-radius: 50%;
     margin-left: auto;
     margin-right: auto;
-}
-
-#chef-border img {
+  }
+  
+  #chef-border img {
     height: 100%;
     width: 100%;
     border-radius: 50%;
-}
-
-.chef-heading {
-    font-family: 'Exo', sans-serif;
-    color:#000;
+  }
+  
+  .chef-heading {
+    font-family: "Exo", sans-serif;
+    color: #000;
     text-align: center;
     margin-top: 40px;
     margin-bottom: 40px;
-   
-}
-
-.opening-times {
-    font-family: 'Exo', sans-serif;
-    color:#000;
+  }
+  
+  .opening-times {
+    font-family: "Exo", sans-serif;
+    color: #000;
     text-align: center;
     margin-top: 60px;
     margin-bottom: 40px;
-}
-
-
-.location {
-    font-family: 'Exo', sans-serif;
-    color:#000;
+  }
+  
+  .location {
+    font-family: "Exo", sans-serif;
+    color: #000;
     text-align: center;
     margin-top: 60px;
     margin-bottom: 40px;
-}
-
-.map-responsive{
-
-    overflow:hidden;
-
-    padding-bottom:56.25%;
-
-    position:relative;
-
-    height:0;
-
-}
-
-.map-responsive iframe{
-
-    left:0;
-
-    top:0;
-
-    height:100%;
-
-    width:100%;
-
-    position:absolute;
-
+  }
+  
+  .map-responsive {
+    overflow: hidden;
+  
+    padding-bottom: 56.25%;
+  
+    position: relative;
+  
+    height: 0;
+  }
+  
+  .map-responsive iframe {
+    left: 0;
+  
+    top: 0;
+  
+    height: 100%;
+  
+    width: 100%;
+  
+    position: absolute;
+  
     padding-bottom: 30px;
-
-}
-
-.center {
-        margin-left: auto;
-        margin-right: auto;
-}
-
-table {
+  }
+  
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  table {
     font-size: 20px;
-    font-family: 'Exo', sans-serif;
-}
-
-
-/*----------------------------------------------------thankyou*/
-
-.thankyou {
+    font-family: "Exo", sans-serif;
+  }
+  
+  /*----------------------------------------------------thankyou*/
+  
+  .thankyou {
     background-image: url("../images/thankyou-bg.avif");
     background-repeat: no-repeat;
     background-size: cover;
@@ -145,10 +135,10 @@ table {
     overflow: hidden;
     width: min-content;
     height: 100vh;
-}
-
-.thankyou-text {
-    font-family: 'Share Tech', sans-serif;
+  }
+  
+  .thankyou-text {
+    font-family: "Share Tech", sans-serif;
     color: #e1ad01;
     text-align: center;
     background-color: #50616161;
@@ -156,13 +146,12 @@ table {
     width: 40%;
     border-radius: 40px;
     padding: 20px;
-    font-size: 4rem; 
-}
-
-
-/*----------------------------------------------------contact form*/
-
-.contact-hero {
+    font-size: 4rem;
+  }
+  
+  /*----------------------------------------------------contact form*/
+  
+  .contact-hero {
     background-image: url("../images/contact-hero.avif");
     background-repeat: no-repeat;
     background-size: cover;
@@ -170,314 +159,307 @@ table {
     overflow: hidden;
     width: 100%;
     height: 100vh;
-}
-
-form {
-    position:absolute;
+  }
+  
+  form {
+    position: absolute;
     color: white;
     background-color: #50616161;
     text-shadow: 1px 1px 10px #000;
-    font-family: 'Exo', sans-serif;
+    font-family: "Exo", sans-serif;
     width: 60%;
     height: min-content;
     border-radius: 40px;
     padding: 20px;
-}
-
-
-form h2 {
+  }
+  
+  form h2 {
     color: #e1ad01;
     margin-bottom: 30px;
-}
-
-.btn {
+  }
+  
+  .btn {
     margin-top: 10px;
     margin-bottom: 30px;
-}
-
-
-/*----------------------------------------------------menu*/
-
-.menu-bg {
+  }
+  
+  /*----------------------------------------------------menu*/
+  
+  .menu-bg {
     background-color: #e1ad01;
-}
-
-.card {
+  }
+  
+  .card {
     margin-bottom: 30px;
-    padding: 10px; 
-}
-
-.card-title {
-    font-family: 'Share Tech', sans-serif;
+    padding: 10px;
+  }
+  
+  .card-title {
+    font-family: "Share Tech", sans-serif;
     font-weight: bold;
     font-size: 2.5rem;
-}
-
-.card-text {
-    font-family: 'Exo', sans-serif;
+  }
+  
+  .card-text {
+    font-family: "Exo", sans-serif;
     font-weight: 400;
-}
-
-.card-body {
-    box-shadow:1px 1px 10px #000;
-}
-
-.card-img-top {
-    box-shadow:1px 1px 10px #000;
-}
-
-.menu-spotify i {
+  }
+  
+  .card-body {
+    box-shadow: 1px 1px 10px #000;
+  }
+  
+  .card-img-top {
+    box-shadow: 1px 1px 10px #000;
+  }
+  
+  .menu-spotify i {
     color: black;
     font-size: 2rem;
-}
-
-.menu-header h1 {
-    font-family: 'Share Tech', sans-serif;
+  }
+  
+  .menu-header h1 {
+    font-family: "Share Tech", sans-serif;
     font-weight: bold;
     font-size: 4rem;
     padding-top: 20px;
-}
-
-.menu-header p {
-    font-family: 'Exo', sans-serif;
+  }
+  
+  .menu-header p {
+    font-family: "Exo", sans-serif;
     font-weight: 400;
     font-size: 20px;
     padding-bottom: 10px;
-}
-
-
-/*----------------------------------------------------footer*/
-
-footer {
+  }
+  
+  /*----------------------------------------------------footer*/
+  
+  footer {
     min-height: 80px;
     background-color: #343a40;
     padding: 20px;
-}
-
-#spotify-icon i {
+  }
+  
+  #spotify-icon i {
     display: inline;
-    color:white;
+    color: white;
     text-align: center;
     font-size: 40px;
     padding-left: 30px;
-}
-
-#facebook-icon i, #twitter-icon i, #instagram-icon i {
+  }
+  
+  #facebook-icon i,
+  #twitter-icon i,
+  #instagram-icon i {
     display: inline;
-    color:white;
+    color: white;
     text-align: center;
     font-size: 40px;
     letter-spacing: 1rem;
-}
-
-.copyright {
+  }
+  
+  .copyright {
     display: inline;
     color: white;
     text-align: center;
-    font-family: 'Exo', sans-serif;
-}
-
-#playlist {
+    font-family: "Exo", sans-serif;
+  }
+  
+  #playlist {
     display: inline;
     color: white;
     text-align: center;
-    font-family: 'Exo', sans-serif;
+    font-family: "Exo", sans-serif;
     font-size: 1.5rem;
-}
-
-
-/*----------------------------------------------------hover*/
-
-#spotify-icon i:hover, #facebook-icon i:hover, #twitter-icon i:hover, #instagram-icon i:hover {
+  }
+  
+  /*----------------------------------------------------hover*/
+  
+  #spotify-icon i:hover,
+  #facebook-icon i:hover,
+  #twitter-icon i:hover,
+  #instagram-icon i:hover {
     color: #e1ad01;
-}
-
-a:hover {
+  }
+  
+  a:hover {
     color: #e1ad01;
     text-decoration: none;
-}
-
-.navbar-dark .navbar-nav .nav-link:hover {
+  }
+  
+  .navbar-dark .navbar-nav .nav-link:hover {
     color: #e1ad01;
     text-decoration: underline;
-}
-
-.btn:hover {
+  }
+  
+  .btn:hover {
     color: #e1ad01;
-}
-
-.menu-spotify i:hover {
+  }
+  
+  .menu-spotify i:hover {
     color: #e1ad01;
-}
-
-/*----------------------------------------------------media queries*/
-
-
-@media (min-width: 1200px) {
-
+  }
+  
+  /*----------------------------------------------------media queries*/
+  
+  @media (min-width: 1200px) {
     .carousel-caption h1 {
-        font-size: 7em;
-        font-weight: 800;
-      }
-
-      .carousel-caption h2 {
-        font-size: 5rem;
-        font-weight: 800;
-     }
-   
-     #chef-border {
-         margin-bottom: 100px;
-         margin-top: 20px;
-     }
-
-     .chef-heading, .opening-times, .location {
-         margin-top: 100px;
-     }
-
-     .map-responsive iframe {
-         padding-right: 60px;
-     }
-
-     .contact-hero {
-         height: 120vh;
-     }
-
-     .thankyou-text {
-         margin-right: 50%;
-     }
-
+      font-size: 7em;
+      font-weight: 800;
     }
-
-@media (min-width: 1024px) and (max-width: 1200px) {
-    .nav-link {
-        font-size: 1.5rem;
+  
+    .carousel-caption h2 {
+      font-size: 5rem;
+      font-weight: 800;
     }
-}
-
-@media (max-width: 1024px) {
-        .carousel-caption h2 {
-            font-size: 4.5em;
-            font-weight: 700;
-         }
-
-         .carousel-caption h1 {
-            font-size: 6.5em;
-            font-weight: 700;
-          }
-
-        }
-
-        
-        
-@media (max-width: 768px) {
-        .carousel-caption h2 {
-            font-size: 3em;
-         }
-
-         .carousel-caption h1 {
-            font-size: 5em;
-          }
-        }
-
-@media (min-width: 994px) and (max-width: 1209px) {
-    .opening-times, .location {
-        margin-top: 40px;
-    }
-
+  
     #chef-border {
-    margin-bottom: 50px;
-
-}
-
-}
-
-@media (min-width:767px) and (max-width:1025px) {
+      margin-bottom: 100px;
+      margin-top: 20px;
+    }
+  
+    .chef-heading,
+    .opening-times,
+    .location {
+      margin-top: 100px;
+    }
+  
+    .map-responsive iframe {
+      padding-right: 60px;
+    }
+  
     .contact-hero {
-        height: 80vh;
+      height: 120vh;
     }
-
+  
     .thankyou-text {
-        font-size: 5rem;
-        width: 60%;
+      margin-right: 50%;
     }
-
-}
-        
-
-
-@media (max-width: 767.98px) {
-    .copyright {
-        margin-top: 20px;
-        margin-bottom: 10px;
+  }
+  
+  @media (min-width: 1024px) and (max-width: 1200px) {
+    .nav-link {
+      font-size: 1.5rem;
     }
-
-    #spotify-icon i, #facebook-icon i, #instagram-icon i, #twitter-icon i {
-        font-size: 1.5rem;
+  }
+  
+  @media (max-width: 1024px) {
+    .carousel-caption h2 {
+      font-size: 4.5em;
+      font-weight: 700;
     }
-
-
-    .copyright {
-        font-size: 0.75rem;
-    }
-
-    form h2 {
-        font-size: 1.5rem;
-    }
-
-    form {
-        font-size: 0.75rem;
-    }
-
-    #contact-button {
-        font-size: 1rem;
-    }
-
-    .thankyou-text {
-        font-size: 3rem;
-        width: 60%;
-    }    
-
-}
-
-@media (max-width: 576px) {
+  
     .carousel-caption h1 {
-        font-size: 4em;
-      }
-
-      .carousel-caption h2 {
-        font-size: 2rem;
-     }
+      font-size: 6.5em;
+      font-weight: 700;
     }
-
-@media (max-width: 320px) {
-
+  }
+  
+  @media (max-width: 768px) {
+    .carousel-caption h2 {
+      font-size: 3em;
+    }
+  
     .carousel-caption h1 {
-        font-size: 3.5em;
-      }
-
-      .carousel-caption h2 {
-        font-size: 1.5rem;
-     }
-
-    form h2 {
-        font-size: 1.25rem;
+      font-size: 5em;
     }
-
-    form {
-        font-size: 0.5rem;
+  }
+  
+  @media (min-width: 994px) and (max-width: 1209px) {
+    .opening-times,
+    .location {
+      margin-top: 40px;
     }
-
-    #contact-button {
-        font-size: 0.75rem;
+  
+    #chef-border {
+      margin-bottom: 50px;
     }
-
+  }
+  
+  @media (min-width: 767px) and (max-width: 1025px) {
+    .contact-hero {
+      height: 80vh;
+    }
+  
     .thankyou-text {
-        font-size: 2.5rem;
-        width: 60%;
+      font-size: 5rem;
+      width: 60%;
     }
-
+  }
+  
+  @media (max-width: 767.98px) {
+    .copyright {
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
+  
+    #spotify-icon i,
+    #facebook-icon i,
+    #instagram-icon i,
+    #twitter-icon i {
+      font-size: 1.5rem;
+    }
+  
+    .copyright {
+      font-size: 0.75rem;
+    }
+  
+    form h2 {
+      font-size: 1.5rem;
+    }
+  
+    form {
+      font-size: 0.75rem;
+    }
+  
+    #contact-button {
+      font-size: 1rem;
+    }
+  
+    .thankyou-text {
+      font-size: 3rem;
+      width: 60%;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .carousel-caption h1 {
+      font-size: 4em;
+    }
+  
+    .carousel-caption h2 {
+      font-size: 2rem;
+    }
+  }
+  
+  @media (max-width: 320px) {
+    .carousel-caption h1 {
+      font-size: 3.5em;
+    }
+  
+    .carousel-caption h2 {
+      font-size: 1.5rem;
+    }
+  
+    form h2 {
+      font-size: 1.25rem;
+    }
+  
+    form {
+      font-size: 0.5rem;
+    }
+  
+    #contact-button {
+      font-size: 0.75rem;
+    }
+  
+    .thankyou-text {
+      font-size: 2.5rem;
+      width: 60%;
+    }
+  
     .name {
-        font-size: 1.5rem;
+      font-size: 1.5rem;
     }
-
-}
+  }
+  
