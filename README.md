@@ -249,7 +249,7 @@ site responsive
 - [jQuery](https://code.jquery.com/jquery-3.3.1.slim.min.js)- Bootstraps components require the use of JavaScript to function. Specifically, they require jQuery, Popper.js, and thier own JavaScript plugins. Their scripts are added  to body of each page to ensure these work correctly.
 - [Popper.js]("https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js)- Bootstraps components require the use of JavaScript to function. Specifically, they require jQuery, Popper.js, and their own JavaScript plugins. Their scripts are added  to body of each page to ensure these work correctly.
 - [Fontawesome](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free)- Used the font awesome CDN in the head of each page to add icons to the site such as the social media links.
-- [Google Fonts](https://fonts.google.com/)- Sourced the website fonts here and imported through a link in my style.css sheet.
+- [Google Fonts](https://fonts.google.com/)- Sourced the website fonts here and imported through a link in my style.css sheet. Requests to the Google Fonts API are made to resource-specific domains, such as fonts.googleapis.com or fonts.gstatic.com.
 - [W3schools](https://www.w3schools.com/)- I used their tutorials on HTML and CSS for further understanding and troubleshooting throughout my project.
 - [Stack Overflow](https://stackoverflow.com/)- I used Stack Overflow to get a more in depth understanding on HTML and CSS  throughout my project.
 - [Code Institute Example Sample README](https://github.com/Code-Institute-Solutions/SampleREADME) & [README Template](https://github.com/Code-Institute-Solutions/readme-template)- I used these as rough guides when planning and writing my README file.
