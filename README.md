@@ -10,32 +10,6 @@
 [Techno Truck](https://jackdilger.github.io/Milstone-Project-One/) is a site that hopes to work as an advertisement tool for the company, whom of which offer high quality mobile cuisine accompanied by live music. The site aims to promote sales and will be useful for potential customers who need to know where to find us and offer some insight into what’s on offer at Techno Truck. The site will provide this information clearly to any first-time visitor, with an easy to navigate and fully responsive experience for all users. 
 
 
-
-## User Experience (UX)
-
-***
-
-
--   ### User stories
-
-    -   #### User Goals
-
-        1. As a user of the site, I want it to be immediately clear what the Techno Truck offers.
-        2. As a user of the site, I want to know where to find the Techno Truck.
-        3. As a user of the site, I want to know what times the Techno Truck is open.
-        4. As a user of the site, I want to know what is served on the Menu.
-        5. As a user of the site, I want to know what type of music is played.
-        6. As a user of the site, I want to know how to contact the company.
-        7. As a user of the site, I want to be able to easily navigate through the site and find important information.
-
-
-    -   #### Company Goals
-
-        1. As the company owner, I want to gain new customers.
-        2. As the company owner, I want to get booked for private hire events.
-        3. As the company owner, I want to increase our sales.
-
-
 ## Layout
 
 ***
@@ -58,27 +32,54 @@
 ![Contact](/readme-images/contact.jpg)
 
 
-## Existing Features
+## User Experience (UX)
+
+***
+
+
+-   ### User stories
+
+    -   #### User Goals
+        
+        1. As a user of the site, I want to be able to easily navigate through the site and find important information.
+        2. As a user of the site, I want it to be immediately clear what the Techno Truck offers as a company.
+        3. As a user of the site, I want to know where to find the Techno Truck.
+        4. As a user of the site, I want to know what times the Techno Truck is open.
+        5. As a user of the site, I want to know what type of music is played.
+        6. As a user of the site, I want to know what is served on the Menu.
+        7. As a user of the site, I want to know how to contact the company.
+    -   #### Company Goals
+
+        1. As the company owner, I want to gain new customers.
+        2. As the company owner, I want to get booked for private hire events.
+        3. As the company owner, I want to increase our sales.
+        4. As the company owmer, I want to increase our social media following.
+
+
+
+## Existing Features and how they align to user stories
 
 ***
 
 - __Navigation Bar__
 
-  - Featured throughout each page on the site. Contains the company name in the top left, when clicked this takes the user back to the home page. 
-  - This is required on each page of the site to allow users to easily navigate the site. It is fully responsive and contains links to the home page, menu and contact page.  
+  - This is required on each page of the site to align with our 1st user story. It allows users to easily navigate the site by using the links to switch between the home page, menu and contact page.
+  -  It is fully responsive and collapses in to a hamburger button to ensure the links are easy to navigate on smaller screen sizes.
+  - Contains the company name in the top left, when clicked this takes the user back to the home page. 
+
 
 ![Nav bar site image](/readme-images/nav-bar-readme.png)
 
 - __Carousel hero images__
 
-  - The home page includes a carousel with 2 hero images which give the user immediate information about the site and what the company offers. 
-  - The first image is of the food truck and the second of a live DJ, this is accompanied by an overlayed header which clearly tells the user what the company offers.
+  - It's important our 2nd user story is met when a user first loads the sites home page. This section includes a carousel with 2 hero images which give the user immediate information about what the company offers. 
+  - The first image is of the food truck and the second of a live DJ, this is accompanied by an overlayed header which clearly indicates to the user the services on offer at Techno Truck.
   
 ![Carousel site image](/readme-images/carousel-readme.png)
 
 - __Opening times and Location Section__
 
-  - This section will allow the user to see exactly where Techno Truck is located, and when they are open.
+  - This section will allow the user to see exactly where Techno Truck is located, and when they are open to align with our 3rd and 4th user stories.
   - The map offers a direct link to google maps to make it even easier for users to find us.
   - The table containing our opening times offers clear information to the user as to when they can visit the truck.
   - The section contacts an image of the chef to make it more personable.
@@ -89,6 +90,7 @@
 - __The Footer__ 
 
   - Featured throughout each page on the site. Includes social links, the links will open to a new tab to ensure they can navigate the site easily.
+  - The companies spotify playlist will let customers know the type of music that is being played. The spotify playist icon stands out in the footer to promote this and align with user story 5.
   - The footer is valuable to the company as it will promote social media growth and in-turn increase sales.
   - Promoting social media to our customers will allow them to better interact with us, so these links display on all site pages.
   - Links to Facebook, Twitter and Instagram default to the sites home pages as the company doesn't have
@@ -98,15 +100,16 @@
 
 - __Menu__
 
-  - Displays a card for each item available on the menu, includes both visual and textual information to the user
+  - Displays a card for each item available on the menu, includes both visual and textual information to the user to let them know
+  what is served and align with user story 6.
   - This page is really important as it promotes the company’s main products, so it is important it is visually appealing to make site users want to visit the food truck.
-  - Each card has a Spotify link with a font awesome icon. The links again open in a new tab, and takes the user to the DJ's Spotify profile whom of which the menu item was inspired by.
+  - Each card has a Spotify link with a font awesome icon. The links again open in a new tab, and takes the user to the DJ's Spotify profile whom of which the menu item was inspired by. This Also aligns with user story 5 in giving customers an idea as to what type of music is played.
 
 ![Menu site image](/readme-images/menu-readme.JPG)
 
 - __Contact__
 
-  - This page will allow users to contact the company for private bookings. The user will be asked to provide their name and email, number, as well as being given the option to provide further details about the booking request. 
+  - This page will allow users to contact the company to which meets the requirments of user story 7. The user will be asked to provide their name and email, number, as well as being given the option to provide further details about the booking request. 
   - All inputs are required and the user will be prompted if they don’t fill out the required information before submitting the form.
   - The user will be taken to a thank you page when they submit the form, clearly indicating their request was sent successfully.
 
